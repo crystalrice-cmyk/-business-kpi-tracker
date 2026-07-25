@@ -1,0 +1,9 @@
+Project_ID,Project_Name,Department,Budget_Hours,Actual_Hours,Percent_Complete,Status
+P001,Project Alpha,Engineering,500,425,90,On Track
+P002,Project Bravo,Engineering,750,810,85,Over Budget
+P003,Project Charlie,Operations,400,250,60,On Track
+P004,Project Delta,Engineering,900,975,95,Over Budget
+P005,Project Echo,Operations,600,540,80,On Track
+P006,Project Foxtrot,Engineering,350,390,100,Complete
+P007,Project Golf,Operations,800,620,70,On Track
+P008,Project Hotel,Engineering,450,510,75,Over Budget
