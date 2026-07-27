@@ -6,6 +6,10 @@ This project demonstrates how operational project data can be analyzed to identi
 
 The analysis uses SQL to compare budgeted labor hours, actual labor usage, and project completion to identify performance issues before they become larger budget problems.
 
+## Dashboard Preview
+
+![Project Performance & Labor Risk Dashboard](Dashboard-Preview.png)
+
 ## Business Questions
 
 The analysis was designed to answer:
