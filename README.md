@@ -70,14 +70,19 @@ Using the sample dataset:
 ## Skills Demonstrated
 
 - SQL
+- Power BI dashboard development
+- Power Query data transformation
+- DAX measures and calculations
 - Business data analysis
+- Data visualization
 - KPI development
 - Project performance analysis
 - Budget variance analysis
-- Risk identification
+- Risk identification and early-warning indicators
 - Conditional logic
 - Aggregate analysis
-- Management reporting
+- Management and executive reporting
+- Translating operational data into actionable business insights
 
 ### SQL Techniques
 
@@ -86,25 +91,31 @@ Using the sample dataset:
 ## Tools
 
 - SQL / SQLite
-- Excel
+- Power BI
+- Power Query
+- DAX
 - GitHub
-- Power BI *(dashboard development in progress)*
 
-## Next Phase
+## Power BI Dashboard
 
-The next phase of this project will develop an interactive Power BI dashboard providing:
+An interactive Power BI dashboard was developed to translate the SQL analysis into management-level reporting.
 
-- Executive KPI summary
-- Budget vs. actual labor analysis
-- Project risk indicators
-- Department performance comparison
-- Project-level drill-down
+The dashboard includes:
+
+- Executive KPI summary of budgeted vs. actual labor hours
+- Portfolio labor variance
+- Project-level budget vs. actual comparison
+- Project status distribution
+- Conditional variance indicators highlighting projects over and under budget
+- DAX measures for dynamic portfolio-level analysis
+- Power Query transformations for data preparation
 
 ## Project Files
 
 - `sample-data.csv` — fictional source dataset
 - `analysis.sql` — SQL queries used for project and department analysis
-
+- `Business-KPI-Tracker.pbix` — interactive Power BI report
+- `Dashboard-Preview.png` — dashboard preview
 ---
 
 *This project is part of a business analytics portfolio focused on using data to identify operational risks, improve visibility, and support management decision-making.*
